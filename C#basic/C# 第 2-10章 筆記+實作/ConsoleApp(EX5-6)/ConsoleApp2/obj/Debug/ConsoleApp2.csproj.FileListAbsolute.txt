@@ -1,0 +1,35 @@
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\User\source\repos\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\Desktop\C#base\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX5-6)\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

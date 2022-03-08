@@ -1,0 +1,7 @@
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\obj\Debug\otherSluForEX7.csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\obj\Debug\otherSluForEX7.csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\bin\Debug\otherSluForEX7.exe.config
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\bin\Debug\otherSluForEX7.exe
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\bin\Debug\otherSluForEX7.pdb
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\obj\Debug\otherSluForEX7.exe
+C:\Users\kate_jou\source\repos\otherSluForEX7\otherSluForEX7\obj\Debug\otherSluForEX7.pdb

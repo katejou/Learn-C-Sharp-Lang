@@ -1,0 +1,6 @@
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).pdb

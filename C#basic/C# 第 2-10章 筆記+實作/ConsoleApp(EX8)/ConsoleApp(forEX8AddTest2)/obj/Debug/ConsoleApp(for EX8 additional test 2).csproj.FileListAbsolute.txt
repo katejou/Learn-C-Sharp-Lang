@@ -1,0 +1,14 @@
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(for EX8 additional test 2).csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(for EX8 additional test 2).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).exe.config
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).exe.config
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\bin\Debug\ConsoleApp(forEX8AddTest2).pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(for EX8 additional test 2).csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(for EX8 additional test 2).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX8)\ConsoleApp(forEX8AddTest2)\obj\Debug\ConsoleApp(forEX8AddTest2).pdb

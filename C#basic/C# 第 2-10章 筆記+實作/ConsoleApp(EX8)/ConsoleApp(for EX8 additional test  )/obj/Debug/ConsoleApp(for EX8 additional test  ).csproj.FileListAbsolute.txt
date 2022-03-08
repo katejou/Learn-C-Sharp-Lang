@@ -1,0 +1,14 @@
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(for EX8 additional test  ).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(for EX8 additional test  ).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(for EX8 additional test  ).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(EX8).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(forEX8AddTest2).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(EX8).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(EX8).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(forEX8AddTest2).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\bin\Debug\ConsoleApp(forEX8AddTest2).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\obj\Debug\ConsoleApp(for EX8 additional test  ).csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\obj\Debug\ConsoleApp(for EX8 additional test  ).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\obj\Debug\ConsoleApp(for EX8 additional test  ).csproj.CopyComplete
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\obj\Debug\ConsoleApp(for EX8 additional test  ).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX8)\ConsoleApp(for EX8 additional test  )\obj\Debug\ConsoleApp(for EX8 additional test  ).pdb

@@ -1,0 +1,41 @@
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csproj.CopyComplete
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).exe.config
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.exe.config
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.pdb
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.exe.config
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csproj.CopyComplete
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\Desktop\backup\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).exe.config
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherSluForEX7.exe.config
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\bin\Debug\otherProject.exe.config
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7).csproj.CopyComplete
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp(EX7)\ConsoleApp(EX7)\obj\Debug\ConsoleApp(EX7-9).pdb

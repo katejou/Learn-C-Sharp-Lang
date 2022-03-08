@@ -1,0 +1,21 @@
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).exe
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).exe
+C:\Users\kate_jou\source\repos\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).pdb
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).exe.config
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).exe
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).pdb
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).exe
+C:\Users\kate_jou\source\repos\C#ONE\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).exe.config
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\bin\Debug\ConsoleApp1(EX9-10).pdb
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).csprojAssemblyReference.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).exe
+C:\Users\kate_jou\Desktop\C#basic\C# 第 2-10章 筆記+實作\ConsoleApp1(EX9-10)\ConsoleApp1(EX9-10)\obj\Debug\ConsoleApp1(EX9-10).pdb

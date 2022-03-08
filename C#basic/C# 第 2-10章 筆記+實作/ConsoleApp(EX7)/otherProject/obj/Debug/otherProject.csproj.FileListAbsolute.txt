@@ -1,0 +1,7 @@
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\obj\Debug\otherProject.csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\obj\Debug\otherProject.csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\bin\Debug\otherProject.exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\bin\Debug\otherProject.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\bin\Debug\otherProject.pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\obj\Debug\otherProject.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\otherProject\obj\Debug\otherProject.pdb

@@ -1,0 +1,14 @@
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\ConsoleApp(EX7-9).exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\obj\Debug\ConsoleApp(EX7-9).csprojAssemblyReference.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\obj\Debug\ConsoleApp(EX7-9).csproj.CoreCompileInputs.cache
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\obj\Debug\ConsoleApp(EX7-9).exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\obj\Debug\ConsoleApp(EX7-9).pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\obj\Debug\ConsoleApp(EX7-9).csproj.CopyComplete
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\otherProject.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\otherSluForEX7.exe
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\otherSluForEX7.pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\otherSluForEX7.exe.config
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\otherProject.pdb
+C:\Users\kate_jou\source\repos\ConsoleApp(EX7-9)\ConsoleApp(EX7-9)\bin\Debug\otherProject.exe.config

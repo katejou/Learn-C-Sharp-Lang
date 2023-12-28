@@ -1,0 +1,9 @@
+新版的 C# string : 
+https://docs.microsoft.com/zh-tw/dotnet/csharp/language-reference/tokens/interpolated
+https://docs.microsoft.com/zh-tw/dotnet/csharp/tutorials/string-interpolation
+
+判斷句字是否數字的最好方法，不用管大小。
+https://stackoverflow.com/questions/894263/identify-if-a-string-is-a-number
+
+實值和參考型別
+https://dotblogs.com.tw/h091237557/2014/05/26/145247
